@@ -1,0 +1,60 @@
+{
+  "location": [
+    {
+      "id": 1,
+      "name": "Bangalore"
+    },
+    {
+      "id": 2,
+      "name": "Chennai"
+    },
+    {
+      "id": 3,
+      "name": "Hyderabad"
+    },
+    {
+      "id": 4,
+      "name": "Mumbai"
+    },
+    {
+      "id": 5,
+      "name": "Pune"
+    }
+  ],
+  "bodyType": [
+    {
+      "id": 1,
+      "name": "Sedan"
+    },
+    {
+      "id": 2,
+      "name": "Hatchback"
+    },
+    {
+      "id": 3,
+      "name": "SUV"
+    },
+    {
+      "id": 4,
+      "name": "MUV"
+    },
+    {
+      "id": 5,
+      "name": "Convertible"
+    }
+  ],
+  "brand": [
+    { "id": 1, "name": "FORD", "logo": "/ford.png" },
+    { "id": 2, "name": "MINI", "logo": "/mini.png" },
+    { "id": 3, "name": "AUDI", "logo": "/audi.png" },
+    { "id": 4, "name": "Ford", "logo": "/hyundai.png" },
+    { "id": 5, "name": "MINI", "logo": "/toyota.png" },
+    { "id": 6, "name": "BMW", "logo": "/bmw.png" },
+    { "id": 7, "name": "TATA", "logo": "/tata.png" },
+    { "id": 8, "name": "SUZUKI", "logo": "/suzuki.png" },
+    { "id": 9, "name": "RENAULT", "logo": "/renault.png" },
+    { "id": 10, "name": "MAHINDRA", "logo": "/mahindra.png" },
+    { "id": 11, "name": "BENZ", "logo": "/benz.png" },
+    { "id": 12, "name": "HYUNDAI", "logo": "/hyundai.png" }
+  ]
+}
